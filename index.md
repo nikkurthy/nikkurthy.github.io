@@ -19,8 +19,8 @@ title:       Niharika Ikkurthy
 first_name:  Niharika
 last_name:   Ikkurthy
 credentials: "MBBS · MPH"
-tagline:     "Cardiovascular & Nutritional Epidemiology"
-meta_description: "Niharika Ikkurthy, MBBS MPH — cardiovascular and nutritional epidemiologist at Cedars-Sinai Medical Center, Los Angeles."
+tagline:     "Cardiovascular and Chronic Disease Researcher"
+meta_description: "Niharika Ikkurthy, MBBS MPH — Research Associate at Cedars-Sinai Medical Center, Los Angeles."
 footer_note: "Smidt Heart Institute, Cedars-Sinai · Los Angeles, CA"
 
 # ── HERO ─────────────────────────────────────────────────────
