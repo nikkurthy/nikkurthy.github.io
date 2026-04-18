@@ -1,0 +1,10 @@
+title: Niharika Ikkurthy
+description: Cardiovascular and nutritional epidemiologist at Cedars-Sinai Medical Center.
+url: "https://nikkurthy.github.io"
+baseurl: ""
+
+# No theme — we use a custom layout
+theme: ~
+
+plugins:
+  - jekyll-seo-tag
